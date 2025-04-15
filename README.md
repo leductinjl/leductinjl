@@ -31,17 +31,34 @@ I'm a backend developer with experience in Node.js and Python. Currently focusin
 ## 💼 Personal Projects
 
 ### 🍔 Foody App
-An e-commerce food delivery application with mobile app and backend system.
+`An e-commerce food delivery application with mobile app and backend system`
+
 > 🔗 **Tech Stack**: React Native • Node.js • MongoDB • Redux • JWT
-[![Foody App](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=foody_app)](https://github.com/leductinjl/foody_app)
-[![Foody Backend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=foody_backend)](https://github.com/leductinjl/foody_backend)
+
+<div align="center">
+  <a href="https://github.com/leductinjl/foody_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=foody_app" />
+  </a>
+  <a href="https://github.com/leductinjl/foody_backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=foody_backend" />
+  </a>
+</div>
+
+---
 
 ### 🎓 Course Management System
-A learning management system for course administration and student enrollment.
-> 🔗 **Tech Stack**: React • Node.js • PostgreSQL • Material-UI • JWT
-[![Course Management Frontend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_frontend)](https://github.com/leductinjl/course_management_frontend)
-[![Course Management Backend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_backend)](https://github.com/leductinjl/course_management_backend)
+`A learning management system for course administration and student enrollment`
 
+> 🔗 **Tech Stack**: React • Node.js • PostgreSQL • Material-UI • JWT
+
+<div align="center">
+  <a href="https://github.com/leductinjl/course_management_frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_frontend" />
+  </a>
+  <a href="https://github.com/leductinjl/course_management_backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_backend" />
+  </a>
+</div>
 
 ## 📚 Education
 - University of Education Ho Chi Minh City
