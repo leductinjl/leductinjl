@@ -28,18 +28,19 @@ I'm a backend developer with experience in Node.js and Python. Currently focusin
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 💼 Projects
+## 💼 Personal Projects
 
-### Featured Projects
 [![Foody App](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=foody_app)](https://github.com/leductinjl/foody_app)
-[![Foody Backend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=foody_backend)](https://github.com/leductinjl/foody_backend)
-[![Course Management Frontend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_frontend)](https://github.com/leductinjl/course_management_frontend)
-[![Course Management Backend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_backend)](https://github.com/leductinjl/course_management_backend)
+> A mobile food delivery application built with React Native, featuring restaurant browsing, order management, and real-time tracking.
 
-### More Projects
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
-- [Project 3](https://github.com/yourusername/project3)
+[![Foody Backend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=foody_backend)](https://github.com/leductinjl/foody_backend)
+> Backend API for Foody app using Node.js and Express.js, handling restaurant management, order processing, and user authentication.
+
+[![Course Management Frontend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_frontend)](https://github.com/leductinjl/course_management_frontend)
+> Web application for managing courses, built with React and Material-UI, featuring role-based access and course enrollment.
+
+[![Course Management Backend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_backend)](https://github.com/leductinjl/course_management_backend)
+> Backend API for course management system using Node.js and PostgreSQL, handling course management, enrollment, and payment processing.
 
 ## 📚 Education
 - University of Education Ho Chi Minh City
