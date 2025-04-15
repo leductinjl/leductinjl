@@ -123,12 +123,6 @@ A full-stack course management system with web application and backend API.
 - 🎯 Currently learning the basics of web security
 - 💡 Always curious about how things work and how to make them more secure
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=leductinjl&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=leductinjl&theme=radical)
-
 ## 📈 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leductinjl&layout=compact&theme=radical)
 
