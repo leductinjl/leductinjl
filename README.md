@@ -1,9 +1,5 @@
 # 👋 Hello, I'm Le Duc Tin (Lê Đức Tín)
 
-## 📫 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leductin.ld@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=About.me&logoColor=white)](Coming soon...)
-
 ## 🚀 About Me
 I'm a backend developer with experience in Node.js and Python. Currently focusing on improving my backend skills, I plan to transition to fullstack development in the future. I'm always eager to learn new technologies and follow best practices in software development.
 
@@ -85,3 +81,7 @@ I'm a backend developer with experience in Node.js and Python. Currently focusin
 - ☕ Addicted to black coffee when debugging
 - 🧠 Love solving logic puzzles in free time
 - 🌍 Dreaming of building apps that impact society
+
+## 🌟 Social
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leductin.ld@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leductinjl) 
