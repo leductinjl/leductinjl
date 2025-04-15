@@ -30,17 +30,19 @@ I'm a backend developer with experience in Node.js and Python. Currently focusin
 
 ## 💼 Personal Projects
 
+### 🍔 Foody App
+An e-commerce food delivery application with mobile app and backend system.
 [![Foody App](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=foody_app)](https://github.com/leductinjl/foody_app)
-> A mobile food delivery application built with React Native, featuring restaurant browsing, order management, and real-time tracking.
-
 [![Foody Backend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=foody_backend)](https://github.com/leductinjl/foody_backend)
-> Backend API for Foody app using Node.js and Express.js, handling restaurant management, order processing, and user authentication.
 
+### 🎓 Course Management System
+A learning management system for course administration and student enrollment.
 [![Course Management Frontend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_frontend)](https://github.com/leductinjl/course_management_frontend)
-> Web application for managing courses, built with React and Material-UI, featuring role-based access and course enrollment.
-
 [![Course Management Backend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_backend)](https://github.com/leductinjl/course_management_backend)
-> Backend API for course management system using Node.js and PostgreSQL, handling course management, enrollment, and payment processing.
+
+### ⌨️ Smart Typing LMS
+An e-learning website to learn how to be fast fingers.
+[![Smart Typing LMS](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=smartTypingLMS)](https://github.com/leductinjl/smartTypingLMS)
 
 ## 📚 Education
 - University of Education Ho Chi Minh City
