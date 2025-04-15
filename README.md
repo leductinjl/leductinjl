@@ -40,9 +40,6 @@ A learning management system for course administration and student enrollment.
 [![Course Management Frontend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_frontend)](https://github.com/leductinjl/course_management_frontend)
 [![Course Management Backend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_backend)](https://github.com/leductinjl/course_management_backend)
 
-### ⌨️ Smart Typing LMS
-An e-learning website to learn how to be fast fingers.
-[![Smart Typing LMS](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=smartTypingLMS)](https://github.com/leductinjl/smartTypingLMS)
 
 ## 📚 Education
 - University of Education Ho Chi Minh City
