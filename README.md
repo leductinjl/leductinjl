@@ -6,44 +6,40 @@ I'm a backend developer with experience in Node.js and Python. Currently focusin
 ## 🛠️ Technical Skills
 
 ### Backend Development
-- Programming Languages: 
+- **Programming Languages**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- Frameworks: 
-  - Python: 
-    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-    ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  - Node.js: 
-    ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-    ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-- Databases:
-  - SQL: 
-    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-  - NoSQL: 
-    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-- Tools: 
+
+- **Frameworks**  
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+- **Databases**  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+- **Tools**  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 💼 Projects
 
-### 🍔 Foody - Food Delivery App
-Full-stack food delivery application
-- Frontend: React Native, TypeScript, Redux
-- Backend: Node.js, Express.js, MongoDB
-- [Frontend Repo](https://github.com/leductinjl/foody_app)
-- [Backend Repo](https://github.com/leductinjl/foody_backend)
+### Featured Projects
+[![Foody App](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=foody_app)](https://github.com/leductinjl/foody_app)
+[![Foody Backend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=foody_backend)](https://github.com/leductinjl/foody_backend)
+[![Course Management Frontend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_frontend)](https://github.com/leductinjl/course_management_frontend)
+[![Course Management Backend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_backend)](https://github.com/leductinjl/course_management_backend)
 
-### 🎓 Course Management System
-Full-stack course management platform
-- Frontend: React, TypeScript, Material-UI
-- Backend: Node.js, Express.js, PostgreSQL
-- [Frontend Repo](https://github.com/leductinjl/course_management_frontend)
-- [Backend Repo](https://github.com/leductinjl/course_management_backend)
+### More Projects
+- [Project 1](https://github.com/yourusername/project1)
+- [Project 2](https://github.com/yourusername/project2)
+- [Project 3](https://github.com/yourusername/project3)
 
 ## 📚 Education
 - University of Education Ho Chi Minh City
