@@ -32,11 +32,13 @@ I'm a backend developer with experience in Node.js and Python. Currently focusin
 
 ### 🍔 Foody App
 An e-commerce food delivery application with mobile app and backend system.
+> 🔗 **Tech Stack**: React Native • Node.js • MongoDB • Redux • JWT
 [![Foody App](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=foody_app)](https://github.com/leductinjl/foody_app)
 [![Foody Backend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=foody_backend)](https://github.com/leductinjl/foody_backend)
 
 ### 🎓 Course Management System
 A learning management system for course administration and student enrollment.
+> 🔗 **Tech Stack**: React • Node.js • PostgreSQL • Material-UI • JWT
 [![Course Management Frontend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_frontend)](https://github.com/leductinjl/course_management_frontend)
 [![Course Management Backend](https://github-readme-stats.vercel.app/api/pin/?username=leductinjl&repo=course_management_backend)](https://github.com/leductinjl/course_management_backend)
 
@@ -55,9 +57,9 @@ A learning management system for course administration and student enrollment.
 - Portfolio: Coming soon...
 
 ## ⚡ Fun Facts
-- 🔒 Interested in Information Security
-- 🎯 Learning web security basics
-- 💡 Curious about how things work
+- ☕ Addicted to black coffee when debugging
+- 🧠 Love solving logic puzzles in free time
+- 🌍 Dreaming of building apps that impact society
 
 ## 🌟 Social
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leductin.ld@gmail.com)
